@@ -2,7 +2,7 @@
 	{
 		"name": "Giantess",
 		"unitType": "Sword",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Macromancers",
 		"replaces": "Warrior",
 		"movement": 2,
 		"strength": 90,
